@@ -1,0 +1,24 @@
+html {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+div {
+  position: relative;
+}
+h1 {
+  text-align: center;
+}
+img {
+  border: black 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  border-top: solid 1px black;
+  padding: 5px;
+  width: 100%;
+  color: #666;
+}
