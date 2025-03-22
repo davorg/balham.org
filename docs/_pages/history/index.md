@@ -1,4 +1,3 @@
-
 ---
 title: "A Short History of Balham"
 permalink: /history/
