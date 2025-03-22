@@ -3,4 +3,6 @@ main:
     url: /
   - title: "Directory"
     url: /directory/
+  - title: "Events"
+    url: /events/
 

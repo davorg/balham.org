@@ -1,0 +1,30 @@
+- name: Balham Comedy Festival
+  date: 2025-07-12
+  location: The Bedford
+  description: A week of top comedy talent from across the UK.
+  link: https://www.thebedford.com/events/comedy-festival/
+
+- name: Sunday Farmers' Market
+  date: Every Sunday
+  location: Henry Cavendish School, Hydethorpe Road
+  description: Fresh produce, baked goods, coffee, and more from local vendors.
+  link: https://www.lfm.org.uk/markets/balham/
+
+- name: Open Mic Night
+  date: Every Wednesday
+  location: The Exhibit, 12 Balham Station Road
+  description: Show off your musical or comedy skills at a friendly open mic.
+  link: https://theexhibit.co.uk/
+
+- name: Art in the Park
+  date: 2025-06-15
+  location: Tooting Common, Balham side
+  description: A family-friendly outdoor art fair with local artists, food, and live music.
+  link: 
+
+- name: Balham Literary Walk
+  date: 2025-08-03
+  location: Starts at Balham Library
+  description: A guided walking tour celebrating Balham's literary and cultural landmarks.
+  link: 
+
