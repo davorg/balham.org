@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Balham.org"
-description: "Discover the best of Balham — your independent guide to local shops, events, and history in SW12."
+title: "Welcome to Balham.org - Your Local SW12 Guide"
+description: "Explore the best of Balham — local businesses, events, and stories from SW12."
 layout: single
 permalink: /
 classes: wide

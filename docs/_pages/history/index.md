@@ -1,6 +1,6 @@
 ---
-title: "A Short History of Balham"
-description: "A brief history of Balham — from its Anglo-Saxon roots to the arrival of the railway and the rise of Du Cane Court. Discover the story of SW12."
+title: "A Short History of Balham : Balham.org"
+description: "Learn how Balham evolved from sleepy hamlet to buzzing south-west London hub."
 permalink: /history/
 layout: single
 ---

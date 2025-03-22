@@ -1,6 +1,6 @@
 ---
-title: "Upcoming Events"
-description: "Find out what's happening in Balham — markets, comedy nights, live music, local festivals and more. Updated regularly with upcoming events in SW12."
+title: "What's On in Balham : Balham.org"
+description: "See what’s on in Balham — gigs, markets, comedy, and more happening near you."
 permalink: /events/
 layout: single
 ---
