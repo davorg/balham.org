@@ -23,6 +23,13 @@ seo:
   og_image: /images/map.png  # Default social image
   twitter_card_type: summary_large_image
 
+social:
+  type: Organization
+  name: Balham.org
+  links:
+    - https://github.com/balham.org
+    - https://links.davecross.co.uk
+
 atom_feed:
   hide: true
 
