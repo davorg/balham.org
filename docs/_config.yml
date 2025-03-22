@@ -20,11 +20,15 @@ seo:
   og_image: /images/map.png  # Default social image
   twitter_card_type: summary_large_image
 
+atom_feed:
+  hide: true
+
 defaults:
   - scope:
       path: ""
     values:
       layout: single
+      show_nav: false
 
 collections:
   pages:
