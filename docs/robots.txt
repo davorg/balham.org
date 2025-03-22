@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://balham.org/sitemap.xml
+

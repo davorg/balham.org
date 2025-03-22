@@ -1,0 +1,10 @@
+/* TEAM */
+Site: https://balham.org/
+Maintainer: Dave Cross
+GitHub: https://github.com/balham.org
+Links: https://links.davecross.co.uk/
+Built with: Jekyll + Minimal Mistakes + caffeine
+
+/* THANKS */
+Inspired by: Balham, Gateway to the South
+
