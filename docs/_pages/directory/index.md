@@ -7,7 +7,7 @@ description: "Discover great cafés, shops, and services in Balham — all in on
 
 <ul>
   {% for biz in site.data.businesses %}
-    <li>
+    <li id="{{ biz.name | slugify }}">
       <h2>{{ biz.name }}</h2>
       <p><strong>Category:</strong> {{ biz.category }}</p>
       <p><strong>Address:</strong> {{ biz.address }}</p>

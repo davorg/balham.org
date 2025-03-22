@@ -7,7 +7,7 @@ layout: single
 
 <ul>
   {% for event in site.data.events %}
-    <li>
+    <li id="{{ event.name | slugify }}">
       <h2>{{ event.name }}</h2>
       <p><strong>Date:</strong> {{ event.date }}</p>
       <p><strong>Location:</strong> {{ event.location }}</p>

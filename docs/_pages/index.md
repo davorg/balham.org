@@ -32,6 +32,29 @@ today.
 
 ---
 
+## 🔥 Featured This Week in Balham
+
+{% assign featured_businesses = site.data.featured.businesses %}
+{% assign featured_events = site.data.featured.events %}
+
+{% for biz_name in featured_businesses %}
+  {% assign biz = site.data.businesses | where: "name", biz_name | first %}
+  {% if biz %}
+  ### 🏪 [{{ biz.name }}](/directory/#{{ biz.name | slugify }})
+  {{ biz.description }}
+  {% endif %}
+{% endfor %}
+
+{% for event_name in featured_events %}
+  {% assign event = site.data.events | where: "name", event_name | first %}
+  {% if event %}
+  ### 🎉 [{{ event.name }}](/events/#{{ event.name | slugify }})
+  {{ event.description }}
+  {% endif %}
+{% endfor %}
+
+---
+
 ## 📬 Get Involved
 
 Got a business to list? An event to share? A bit of Balham history to
