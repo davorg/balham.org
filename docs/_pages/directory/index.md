@@ -1,5 +1,5 @@
 ---
-title: "Business Directory : Balham.org"
+title: "Business Directory"
 permalink: /directory/
 layout: single
 description: "Discover great cafés, shops, and services in Balham — all in one place."

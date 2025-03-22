@@ -1,5 +1,5 @@
 ---
-title: "What's On in Balham : Balham.org"
+title: "What's On in Balham"
 description: "See what’s on in Balham — gigs, markets, comedy, and more happening near you."
 permalink: /events/
 layout: single

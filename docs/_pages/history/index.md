@@ -1,5 +1,5 @@
 ---
-title: "A Short History of Balham : Balham.org"
+title: "A Short History of Balham"
 description: "Learn how Balham evolved from sleepy hamlet to buzzing south-west London hub."
 permalink: /history/
 layout: single
