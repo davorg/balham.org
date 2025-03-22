@@ -48,11 +48,31 @@ widespread media coverage and two inquests, no one was ever charged with the
 murder. The case remains one of Britain’s most enduring true crime mysteries,
 casting a long shadow over The Priory and its legacy.
 
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Du_Cane_Court%2C_Balham%2C_London-6850667563.jpg"
+       alt="Exterior of Du Cane Court, a large 1930s Art Deco apartment building in Balham"
+       class="responsive-inline-image">
+  <figcaption>
+    “Du Cane Court, Balham” by <a href="https://commons.wikimedia.org/wiki/File:Du_Cane_Court,_Balham,_London-6850667563.jpg">Jim Linwood</a>,
+    licensed under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>, via Wikimedia Commons
+  </figcaption>
+</figure>
 
 One of Balham’s most famous buildings is **Du Cane Court**, a striking Art
 Deco block of flats built in the 1930s. It was the largest privately owned
 block of flats in Europe at the time and reportedly spared bombing in WWII
 because the Luftwaffe planned to use it as officers' quarters.
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/London_Buses_route_155_Balham.jpg"
+       alt="London bus on route 155 passing through Balham High Road"
+       class="responsive-inline-image">
+  <figcaption>
+    “London Buses route 155, Balham” by <a href="https://commons.wikimedia.org/wiki/File:London_Buses_route_155_Balham.jpg">David Howard</a>,
+    licensed under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>, via Wikimedia Commons
+  </figcaption>
+</figure>
+
 
 Balham has also gained a cult following from its comedic references — most
 notably in the 1949 spoof travelogue “Balham: Gateway to the South,” made
