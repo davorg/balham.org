@@ -28,7 +28,7 @@ defaults:
       path: ""
     values:
       layout: single
-      show_nav: false
+      show_related: false
 
 collections:
   pages:
