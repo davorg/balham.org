@@ -40,7 +40,7 @@ today.
 {% for biz_name in featured_businesses %}
   {% assign biz = site.data.businesses | where: "name", biz_name | first %}
   {% if biz %}
-  ### 🏪 [{{ biz.name }}](/directory/#{{ biz.name | slugify }})
+### 🏪 [{{ biz.name }}](/directory/#{{ biz.name | slugify }})
   {{ biz.description }}
   {% endif %}
 {% endfor %}
@@ -48,7 +48,7 @@ today.
 {% for event_name in featured_events %}
   {% assign event = site.data.events | where: "name", event_name | first %}
   {% if event %}
-  ### 🎉 [{{ event.name }}](/events/#{{ event.name | slugify }})
+### 🎉 [{{ event.name }}](/events/#{{ event.name | slugify }})
   {{ event.description }}
   {% endif %}
 {% endfor %}
