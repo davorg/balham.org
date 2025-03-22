@@ -1,0 +1,20 @@
+title: "Balham.org"
+description: "A useful guide to businesses, events, and life in Balham."
+url: "https://balham.org"
+
+remote_theme: mmistakes/minimal-mistakes@4.26.1
+
+plugins:
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+

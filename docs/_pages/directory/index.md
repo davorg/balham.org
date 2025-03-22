@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Balham Business Directory</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-    <h1>Balham Business Directory</h1>
+---
+title: "Business Directory"
+permalink: /directory/
+---
+
     <div id="business-list"></div>
 
     <script>
@@ -31,6 +26,3 @@
             })
             .catch(error => console.error('Error loading businesses:', error));
     </script>
-</body>
-</html>
-
