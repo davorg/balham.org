@@ -1,5 +1,6 @@
 ---
 title: "Upcoming Events"
+description: "Find out what's happening in Balham — markets, comedy nights, live music, local festivals and more. Updated regularly with upcoming events in SW12."
 permalink: /events/
 layout: single
 ---

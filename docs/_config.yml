@@ -1,11 +1,24 @@
 title: "Balham.org"
-description: "A useful guide to businesses, events, and life in Balham."
+description: "The independent guide to Balham — discover local businesses, events, and history in SW12."
 url: "https://balham.org"
 
 remote_theme: mmistakes/minimal-mistakes@4.26.1
 
 plugins:
   - jekyll-include-cache
+
+author:
+  name: Balham.org
+  email: hello@balham.org
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-YVD72VFTLW"
+
+seo:
+  og_image: /images/map.png  # Default social image
+  twitter_card_type: summary_large_image
 
 defaults:
   - scope:

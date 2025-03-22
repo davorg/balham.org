@@ -2,6 +2,7 @@
 title: "Business Directory"
 permalink: /directory/
 layout: single
+description: "Explore local businesses in Balham, including cafés, restaurants, shops, and services — all in one place."
 ---
 
 <ul>
