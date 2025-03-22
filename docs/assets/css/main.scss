@@ -1,0 +1,14 @@
+---
+# Only the front matter is required; it enables Jekyll to process the file.
+---
+
+@import "minimal-mistakes"; // Import the theme’s base styles
+
+// 👇 Your custom styles go below
+.responsive-map {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+

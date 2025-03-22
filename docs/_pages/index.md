@@ -6,7 +6,7 @@ permalink: /
 classes: wide
 ---
 
-![Map of Balham](/images/map.png)
+![Map of Balham](/images/map.png){: .responsive-map }
 
 Welcome to **Balham.org** — your independent guide to one of south-west
 London's most vibrant neighbourhoods.
