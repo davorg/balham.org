@@ -13,13 +13,13 @@
 - name: The Exhibit
   category: Restaurant
   address: 12 Balham Station Road, London SW12 9SG
-  website: ""
+  website: https://theexhibit.co.uk/
   description: A bar, restaurant, and event space offering a diverse menu and regular entertainment.
 
 - name: Freak Scene
   category: Restaurant
   address: 1 Ramsden Road, Balham, London SW12 8QZ
-  website: ""
+  website: https://theexhibit.co.uk/
   description: A pan-Asian restaurant by chef Scott Hallsworth, known for its innovative dishes.
 
 - name: Ciullósteria
@@ -37,7 +37,7 @@
 - name: Hagen & Hyde
   category: Pub
   address: 157 Balham High Road, London SW12 9AU
-  website: ""
+  website: https://hagenandhyde.com/
   description: Combines great food, beer, and live music in a vibrant atmosphere.
 
 - name: Moxon's Fishmongers
@@ -55,7 +55,7 @@
 - name: Natural for Baby
   category: Shop
   address: 78 Balham High Road, London SW12 9AG
-  website: ""
+  website: https://naturalforbaby.london/
   description: Specialises in children's clothing, footwear, and nursery furniture.
 
 - name: The Wine Tasting Shop
@@ -67,7 +67,7 @@
 - name: Balham Farmers' Market
   category: Market
   address: Henry Cavendish Primary School, Hydethorpe Road, London SW12 0JA
-  website: ""
+  website: https://www.lfm.org.uk/markets/balham/
   description: Weekly market offering fresh local produce every Saturday.
 
 - name: Chadwick's Butchers
@@ -115,7 +115,7 @@
 - name: Balham Paint and Hardware Company
   category: Hardware Store
   address: 22 Bedford Hill, London SW12 9RG
-  website: ""
+  website: https://www.balhampaintandhardware.co.uk/
   description: Local DIY supplies and hardware store.
 
 - name: The Flower Sanctuary
