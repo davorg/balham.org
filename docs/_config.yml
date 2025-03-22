@@ -20,7 +20,7 @@ analytics:
     tracking_id: "G-YVD72VFTLW"
 
 seo:
-  og_image: /images/map.png  # Default social image
+  og_image: /images/map.webp  # Default social image
   twitter_card_type: summary_large_image
 
 social:
