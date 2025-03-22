@@ -28,7 +28,6 @@ defaults:
       path: ""
     values:
       layout: single
-      show_related: false
 
 collections:
   pages:
