@@ -1,0 +1,126 @@
+- name: Camden Coffee House
+  category: Cafe
+  address: Nightingale Lane, London, UK
+  website: ""
+  description: A local favourite, offering a variety of specialty coffees and pastries.
+
+- name: Milk
+  category: Cafe
+  address: 18-20 Bedford Hill, London SW12 9RG
+  website: https://www.milk.london/
+  description: Known for its innovative brunch menu and artisanal coffee.
+
+- name: The Exhibit
+  category: Restaurant
+  address: 12 Balham Station Road, London SW12 9SG
+  website: ""
+  description: A bar, restaurant, and event space offering a diverse menu and regular entertainment.
+
+- name: Freak Scene
+  category: Restaurant
+  address: 1 Ramsden Road, Balham, London SW12 8QZ
+  website: ""
+  description: A pan-Asian restaurant by chef Scott Hallsworth, known for its innovative dishes.
+
+- name: Ciullósteria
+  category: Restaurant
+  address: 31 Balham High Road, London SW12 9AL
+  website: https://ciullosteria.com/
+  description: Offers traditional Italian cuisine, including handmade pasta and crisp pizzas, complemented by a selection of quality wines.
+
+- name: The Bedford
+  category: Pub
+  address: 77 Bedford Hill, Balham, London SW12 9HD
+  website: https://thebedford.com/
+  description: A historic pub and live music venue, hosting comedy nights and concerts.
+
+- name: Hagen & Hyde
+  category: Pub
+  address: 157 Balham High Road, London SW12 9AU
+  website: ""
+  description: Combines great food, beer, and live music in a vibrant atmosphere.
+
+- name: Moxon's Fishmongers
+  category: Shop
+  address: 77 Nightingale Lane, London SW12 8NX
+  website: https://www.moxonsfreshfish.com/
+  description: Offers fresh fish, smoked products, and homemade pies.
+
+- name: Sam Ubhi Jewellery
+  category: Shop
+  address: 7 Bedford Hill, Balham, London SW12 9ET
+  website: https://www.samubhi.com/
+  description: An award-winning jewellery brand celebrating over 30 years in business.
+
+- name: Natural for Baby
+  category: Shop
+  address: 78 Balham High Road, London SW12 9AG
+  website: ""
+  description: Specialises in children's clothing, footwear, and nursery furniture.
+
+- name: The Wine Tasting Shop
+  category: Shop
+  address: 18 Hildreth Street, London SW12 9RQ
+  website: https://www.thewinetastingshop.co.uk/
+  description: Curated wine selections and regular tasting events.
+
+- name: Balham Farmers' Market
+  category: Market
+  address: Henry Cavendish Primary School, Hydethorpe Road, London SW12 0JA
+  website: ""
+  description: Weekly market offering fresh local produce every Saturday.
+
+- name: Chadwick's Butchers
+  category: Butcher
+  address: 109 Balham High Road, London SW12 9AP
+  website: https://www.chadwicksbutchers.com/
+  description: A family-run butcher shop known for high-quality meats and friendly service.
+
+- name: ReCentre Health
+  category: Wellness
+  address: 246 and 260 Balham High Road, London SW17 7AN
+  website: https://recentre-health.co.uk/
+  description: Physiotherapy, osteopathy, Pilates, yoga, and holistic treatments.
+
+- name: MoreYoga
+  category: Wellness
+  address: 275 Balham High Road, London SW17 7BD
+  website: https://www.moreyoga.co.uk/studios/balham/
+  description: Variety of yoga classes suitable for all levels.
+
+- name: Fitness First
+  category: Gym
+  address: 279-291 Balham High Road, London SW12 9AW
+  website: https://www.fitnessfirst.co.uk/find-a-gym/balham
+  description: Gym offering diverse fitness classes and extensive facilities.
+
+- name: Brindisa Cheese & Charcuterie
+  category: Specialty Store
+  address: 6 Hildreth Street, London SW12 9RQ
+  website: https://www.brindisa.com/
+  description: Specialises in Spanish cheeses and cured meats.
+
+- name: Clapton Craft
+  category: Specialty Store
+  address: 28 Hildreth Street, London SW12 9RQ
+  website: https://claptoncraft.co.uk/
+  description: Selection of craft beers and ales.
+
+- name: Season Cookshop
+  category: Specialty Store
+  address: 99 Balham High Road, London SW12 9AP
+  website: https://seasoncookshop.co.uk/
+  description: Quality cookware and kitchen essentials.
+
+- name: Balham Paint and Hardware Company
+  category: Hardware Store
+  address: 22 Bedford Hill, London SW12 9RG
+  website: ""
+  description: Local DIY supplies and hardware store.
+
+- name: The Flower Sanctuary
+  category: Florist
+  address: 8 Hildreth Street, London SW12 9RQ
+  website: https://www.flowersanctuary.co.uk/
+  description: Florist offering beautiful floral arrangements and bouquets.
+

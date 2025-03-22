@@ -1,28 +1,21 @@
 ---
 title: "Business Directory"
 permalink: /directory/
+layout: single
 ---
 
-<div id="business-list"></div>
+<ul>
+  {% for biz in site.data.businesses %}
+    <li>
+      <h2>{{ biz.name }}</h2>
+      <p><strong>Category:</strong> {{ biz.category }}</p>
+      <p><strong>Address:</strong> {{ biz.address }}</p>
+      {% if biz.website %}
+        <p><a href="{{ biz.website }}" target="_blank">Visit Website</a></p>
+      {% endif %}
+      <p>{{ biz.description }}</p>
+    </li>
+    <hr>
+  {% endfor %}
+</ul>
 
-<script>
-  fetch('https://balham.org/data/businesses.json')
-    .then(response => response.json())
-    .then(data => {
-      const container = document.getElementById('business-list');
-      data.forEach(business => {
-        const div = document.createElement('div');
-        div.className = 'business';
-        div.innerHTML = `
-          <h2>${business.name}</h2>
-          <p><strong>Category:</strong> ${business.category}</p>
-          <p><strong>Address:</strong> ${business.address}</p>
-          <p><a href="${business.website}" target="_blank">${business.website ? "Visit Website" : ""}</a></p>
-          <p>${business.description}</p>
-          <hr>
-          `;
-        container.appendChild(div);
-      });
-    })
-  .catch(error => console.error('Error loading businesses:', error));
-</script>
