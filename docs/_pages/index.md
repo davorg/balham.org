@@ -34,24 +34,30 @@ today.
 
 ## 🔥 Featured This Week in Balham
 
-{% assign featured_businesses = site.data.featured.businesses %}
-{% assign featured_events = site.data.featured.events %}
+<div class="featured-grid">
+  {% assign featured_businesses = site.data.featured.businesses %}
+  {% assign featured_events = site.data.featured.events %}
 
-{% for biz_name in featured_businesses %}
-  {% assign biz = site.data.businesses | where: "name", biz_name | first %}
-  {% if biz %}
-### 🏪 [{{ biz.name }}](/directory/#{{ biz.name | slugify }})
-  {{ biz.description }}
-  {% endif %}
-{% endfor %}
+  {% for biz_name in featured_businesses %}
+    {% assign biz = site.data.businesses | where: "name", biz_name | first %}
+    {% if biz %}
+      <div class="featured-block">
+        <h3><a href="/directory/#{{ biz.name | slugify }}">{{ biz.name }}</a></h3>
+        <p>{{ biz.description }}</p>
+      </div>
+    {% endif %}
+  {% endfor %}
 
-{% for event_name in featured_events %}
-  {% assign event = site.data.events | where: "name", event_name | first %}
-  {% if event %}
-### 🎉 [{{ event.name }}](/events/#{{ event.name | slugify }})
-  {{ event.description }}
-  {% endif %}
-{% endfor %}
+  {% for event_name in featured_events %}
+    {% assign event = site.data.events | where: "name", event_name | first %}
+    {% if event %}
+      <div class="featured-block">
+        <h3><a href="/events/#{{ event.name | slugify }}">{{ event.name }}</a></h3>
+        <p>{{ event.description }}</p>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
 
 ---
 

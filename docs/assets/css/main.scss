@@ -12,3 +12,32 @@
   margin: 0 auto;
 }
 
+.featured-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.featured-block {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+}
+
+.featured-block h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+
+.featured-block a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.featured-block a:hover {
+  text-decoration: underline;
+}
+
