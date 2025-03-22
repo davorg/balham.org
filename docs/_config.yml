@@ -7,6 +7,8 @@ remote_theme: mmistakes/minimal-mistakes@4.26.1
 plugins:
   - jekyll-include-cache
 
+locale: en_GB
+
 author:
   name: Balham.org
   email: hello@balham.org
