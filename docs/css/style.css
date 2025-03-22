@@ -1,24 +1,28 @@
-html {
-  font-family: 'Source Sans Pro', sans-serif;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    line-height: 1.6;
+    color: #333;
 }
-div {
-  position: relative;
+
+h1, h2 {
+    color: #005a87;
 }
-h1 {
-  text-align: center;
+
+div.business {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
 }
-img {
-  border: black 1px solid;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+
+a {
+    color: #007bff;
+    text-decoration: none;
 }
-footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  border-top: solid 1px black;
-  padding: 5px;
-  width: 100%;
-  color: #666;
+
+a:hover {
+    text-decoration: underline;
 }
+
