@@ -51,3 +51,22 @@
   text-decoration: underline;
 }
 
+.footer-cta {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-top: 2rem;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  text-align: center;
+
+  a {
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
