@@ -42,7 +42,7 @@ today.
     {% assign biz = site.data.businesses | where: "name", biz_name | first %}
     {% if biz %}
       <div class="featured-block">
-        <h3><a href="/directory/#{{ biz.name | slugify }}">{{ biz.name }}</a></h3>
+        <h3><a href="/directory/#{{ biz.name | slugify }}">🏪 {{ biz.name }}</a></h3>
         <p>{{ biz.description }}</p>
       </div>
     {% endif %}
@@ -52,7 +52,7 @@ today.
     {% assign event = site.data.events | where: "name", event_name | first %}
     {% if event %}
       <div class="featured-block">
-        <h3><a href="/events/#{{ event.name | slugify }}">{{ event.name }}</a></h3>
+        <h3><a href="/events/#{{ event.name | slugify }}">🎉 {{ event.name }}</a></h3>
         <p>{{ event.description }}</p>
       </div>
     {% endif %}
