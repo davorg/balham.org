@@ -4,6 +4,13 @@
 
 @import "minimal-mistakes"; // Import the theme’s base styles
 
+// Custom font
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+body {
+  font-family: "Open Sans", system-ui, -apple-system, sans-serif;
+}
+
 // 👇 Your custom styles go below
 .responsive-map {
   width: 100%;
