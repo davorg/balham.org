@@ -4,6 +4,13 @@ description: "Explore the best of Balham — local businesses, events, and stori
 layout: single
 permalink: /
 classes: wide
+redirect_from:
+  - /comments/feed/
+  - /2017/09/
+  - /category/nostalgia/
+  - /profiles/blogs/x-crossing
+  - /2017/09/french-cafe-closes/
+  - /2017/09/queuing-for-milk/
 ---
 
 ![Map of Balham](/images/map.webp){: .responsive-map }
