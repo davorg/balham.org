@@ -5,10 +5,11 @@ layout: single
 permalink: /
 classes: wide
 redirect_from:
-  - /comments/feed/
-  - /2017/09/
   - /category/nostalgia/
+  - /comments/feed/
+  - /old-index.html
   - /profiles/blogs/x-crossing
+  - /2017/09/
   - /2017/09/french-cafe-closes/
   - /2017/09/queuing-for-milk/
 ---
