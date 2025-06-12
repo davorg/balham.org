@@ -5,16 +5,41 @@ layout: single
 description: "Discover great cafés, shops, and services in Balham — all in one place."
 ---
 
+<style>
+#category-buttons {
+  margin-bottom: 1.5rem;
+
+  .category-toggle {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    color: #333;
+    padding: 0.4em 0.8em;
+    margin: 0.2em;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+
+  .category-toggle.active {
+    background-color: #007ACC;
+    color: white;
+    border-color: #007ACC;
+  }
+
+  .category-toggle:hover {
+    opacity: 0.9;
+  }
+}
+</style>
+
 <p><strong>Show categories:</strong></p>
-<p id="category-filter">
+<div id="category-buttons">
   {% assign sorted_biz = site.data.businesses | sort: "name" %}
   {% assign categories = sorted_biz | map: "category" | uniq | sort %}
   {% for cat in categories %}
-    <label style="white-space: nowrap;">
-      <input type="checkbox" checked data-category="{{ cat | slugify }}"> {{ cat }}
-    </label>{% unless forloop.last %} | {% endunless %}
+    <button class="category-toggle active" data-category="{{ cat | slugify }}">{{ cat }}</button>
   {% endfor %}
-</p>
+</div>
 
 <hr>
 
@@ -42,18 +67,17 @@ description: "Discover great cafés, shops, and services in Balham — all in on
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const checkboxes = document.querySelectorAll('#category-filter input[type="checkbox"]');
-    const categoryBlocks = document.querySelectorAll('.biz-category');
+    const buttons = document.querySelectorAll('.category-toggle');
 
-    checkboxes.forEach(checkbox => {
-      checkbox.addEventListener('change', () => {
-        const category = checkbox.getAttribute('data-category');
-        const block = document.querySelector(`.biz-category[data-category="${category}"]`);
-        if (checkbox.checked) {
-          block.style.display = '';
-        } else {
-          block.style.display = 'none';
-        }
+    buttons.forEach(button => {
+      button.addEventListener('click', function () {
+        const category = this.getAttribute('data-category');
+        const blocks = document.querySelectorAll(`.biz-category[data-category="${category}"]`);
+        const isActive = this.classList.toggle('active');
+
+        blocks.forEach(block => {
+          block.style.display = isActive ? '' : 'none';
+        });
       });
     });
   });
