@@ -7,17 +7,18 @@ description: "Discover great cafés, shops, and services in Balham — all in on
 
 <style>
 #category-buttons {
-  margin-bottom: 1.5rem;
+  margin: 0.5rem 0 1rem;
 
   .category-toggle {
     background-color: #f0f0f0;
     border: 1px solid #ccc;
     color: #333;
-    padding: 0.4em 0.8em;
-    margin: 0.2em;
+    padding: 0.2em 0.6em;
+    margin: 0.2em 0.3em 0.2em 0;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
+    line-height: 1.2;
   }
 
   .category-toggle.active {
@@ -30,6 +31,7 @@ description: "Discover great cafés, shops, and services in Balham — all in on
     opacity: 0.9;
   }
 }
+
 </style>
 
 <p><strong>Show categories:</strong></p>
