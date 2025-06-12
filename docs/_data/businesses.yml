@@ -1,156 +1,172 @@
-- name: Camden Coffee House
-  category: Cafe
-  address: Nightingale Lane, London, UK
-  website: ""
+- address: Nightingale Lane, London, UK
+  category: Café
   description: A local favourite, offering a variety of specialty coffees and pastries.
-
-- name: Milk
-  category: Cafe
-  address: 18-20 Bedford Hill, London SW12 9RG
-  website: https://www.milk.london/
+  name: Camden Coffee House
+  tags: []
+  website: ''
+- address: 18-20 Bedford Hill, London SW12 9RG
+  category: Café
   description: Known for its innovative brunch menu and artisanal coffee.
-
-- name: The Exhibit
+  name: Milk
+  tags: []
+  website: https://www.milk.london/
+- address: 12 Balham Station Road, London SW12 9SG
   category: Restaurant
-  address: 12 Balham Station Road, London SW12 9SG
+  description: A bar, restaurant, and event space offering a diverse menu and regular
+    entertainment.
+  name: The Exhibit
+  tags: []
   website: https://theexhibit.co.uk/
-  description: A bar, restaurant, and event space offering a diverse menu and regular entertainment.
-
-- name: Ciullósteria
+- address: 31 Balham High Road, London SW12 9AL
   category: Restaurant
-  address: 31 Balham High Road, London SW12 9AL
+  description: Offers traditional Italian cuisine, including handmade pasta and crisp
+    pizzas, complemented by a selection of quality wines.
+  name: Ciullósteria
+  tags: []
   website: https://ciullosteria.com/
-  description: Offers traditional Italian cuisine, including handmade pasta and crisp pizzas, complemented by a selection of quality wines.
-
-- name: The Bedford
+- address: 77 Bedford Hill, Balham, London SW12 9HD
   category: Pub
-  address: 77 Bedford Hill, Balham, London SW12 9HD
-  website: https://thebedford.com/
   description: A historic pub and live music venue, hosting comedy nights and concerts.
-
-- name: Hagen & Hyde
+  name: The Bedford
+  tags: []
+  website: https://thebedford.com/
+- address: 157 Balham High Road, London SW12 9AU
   category: Pub
-  address: 157 Balham High Road, London SW12 9AU
-  website: https://hagenandhyde.com/
   description: Combines great food, beer, and live music in a vibrant atmosphere.
-
-- name: Moxon's Fishmongers
+  name: Hagen & Hyde
+  tags: []
+  website: https://hagenandhyde.com/
+- address: 77 Nightingale Lane, London SW12 8NX
   category: Shop
-  address: 77 Nightingale Lane, London SW12 8NX
-  website: https://www.moxonsfreshfish.com/
   description: Offers fresh fish, smoked products, and homemade pies.
-
-- name: Sam Ubhi Jewellery
+  name: Moxon's Fishmongers
+  tags: []
+  website: https://www.moxonsfreshfish.com/
+- address: 7 Bedford Hill, Balham, London SW12 9ET
   category: Shop
-  address: 7 Bedford Hill, Balham, London SW12 9ET
-  website: https://www.samubhi.com/
   description: An award-winning jewellery brand celebrating over 30 years in business.
-
-- name: Natural for Baby
+  name: Sam Ubhi Jewellery
+  tags: []
+  website: https://www.samubhi.com/
+- address: 78 Balham High Road, London SW12 9AG
   category: Shop
-  address: 78 Balham High Road, London SW12 9AG
-  website: https://naturalforbaby.london/
   description: Specialises in children's clothing, footwear, and nursery furniture.
-
-- name: The Wine Tasting Shop
+  name: Natural for Baby
+  tags: []
+  website: https://naturalforbaby.london/
+- address: 18 Hildreth Street, London SW12 9RQ
   category: Shop
-  address: 18 Hildreth Street, London SW12 9RQ
-  website: https://www.thewinetastingshop.co.uk/
   description: Curated wine selections and regular tasting events.
-
-- name: Balham Farmers' Market
+  name: The Wine Tasting Shop
+  tags: []
+  website: https://www.thewinetastingshop.co.uk/
+- address: Henry Cavendish Primary School, Hydethorpe Road, London SW12 0JA
   category: Market
-  address: Henry Cavendish Primary School, Hydethorpe Road, London SW12 0JA
-  website: https://www.lfm.org.uk/markets/balham/
   description: Weekly market offering fresh local produce every Saturday.
-
-- name: Chadwick's Butchers
+  name: Balham Farmers' Market
+  tags: []
+  website: https://www.lfm.org.uk/markets/balham/
+- address: 109 Balham High Road, London SW12 9AP
   category: Butcher
-  address: 109 Balham High Road, London SW12 9AP
+  description: A family-run butcher shop known for high-quality meats and friendly
+    service.
+  name: Chadwick's Butchers
+  tags: []
   website: https://www.chadwicksbutchers.com/
-  description: A family-run butcher shop known for high-quality meats and friendly service.
-
-- name: ReCentre Health
+- address: 246 and 260 Balham High Road, London SW17 7AN
   category: Wellness
-  address: 246 and 260 Balham High Road, London SW17 7AN
-  website: https://recentre-health.co.uk/
   description: Physiotherapy, osteopathy, Pilates, yoga, and holistic treatments.
-
-- name: MoreYoga
+  name: ReCentre Health
+  tags: []
+  website: https://recentre-health.co.uk/
+- address: 275 Balham High Road, London SW17 7BD
   category: Wellness
-  address: 275 Balham High Road, London SW17 7BD
-  website: https://www.moreyoga.co.uk/studios/balham/
   description: Variety of yoga classes suitable for all levels.
-
-- name: Fitness First
+  name: MoreYoga
+  tags: []
+  website: https://www.moreyoga.co.uk/studios/balham/
+- address: 279-291 Balham High Road, London SW12 9AW
   category: Gym
-  address: 279-291 Balham High Road, London SW12 9AW
-  website: https://www.fitnessfirst.co.uk/find-a-gym/balham
   description: Gym offering diverse fitness classes and extensive facilities.
-
-- name: Brindisa Cheese & Charcuterie
-  category: Specialty Store
-  address: 6 Hildreth Street, London SW12 9RQ
-  website: https://www.brindisa.com/
+  name: Fitness First
+  tags: []
+  website: https://www.fitnessfirst.co.uk/find-a-gym/balham
+- address: 6 Hildreth Street, London SW12 9RQ
+  category: Shop
   description: Specialises in Spanish cheeses and cured meats.
-
-- name: Clapton Craft
-  category: Specialty Store
-  address: 28 Hildreth Street, London SW12 9RQ
-  website: https://claptoncraft.co.uk/
+  name: Brindisa Cheese & Charcuterie
+  tags:
+  - Specialty
+  website: https://www.brindisa.com/
+- address: 28 Hildreth Street, London SW12 9RQ
+  category: Shop
   description: Selection of craft beers and ales.
-
-- name: Season Cookshop
-  category: Specialty Store
-  address: 99 Balham High Road, London SW12 9AP
-  website: https://seasoncookshop.co.uk/
+  name: Clapton Craft
+  tags:
+  - Specialty
+  website: https://claptoncraft.co.uk/
+- address: 99 Balham High Road, London SW12 9AP
+  category: Shop
   description: Quality cookware and kitchen essentials.
-
-- name: Balham Paint and Hardware Company
+  name: Season Cookshop
+  tags:
+  - Specialty
+  website: https://seasoncookshop.co.uk/
+- address: 22 Bedford Hill, London SW12 9RG
   category: Hardware Store
-  address: 22 Bedford Hill, London SW12 9RG
-  website: https://www.balhampaintandhardware.co.uk/
   description: Local DIY supplies and hardware store.
-
-- name: The Flower Sanctuary
+  name: Balham Paint and Hardware Company
+  tags: []
+  website: https://www.balhampaintandhardware.co.uk/
+- address: 8 Hildreth Street, London SW12 9RQ
   category: Florist
-  address: 8 Hildreth Street, London SW12 9RQ
-  website: https://www.flowersanctuary.co.uk/
   description: Florist offering beautiful floral arrangements and bouquets.
-
-- name: The Apple Blue
-  category: Café & Patisserie
-  address: 212 Balham High Road, SW12 9BS
+  name: The Flower Sanctuary
+  tags: []
+  website: https://www.flowersanctuary.co.uk/
+- address: 212 Balham High Road, SW12 9BS
+  category: Café
+  description: A charming café/patisserie serving Volcano coffee and indulgent pastries;
+    friendly seating policy with a 60‑minute stay during peak times.
+  name: The Apple Blue
+  tags:
+  - Patisserie
   website: https://www.instagram.com/theapplebluebalham/
-  description: A charming café/patisserie serving Volcano coffee and indulgent pastries; friendly seating policy with a 60‑minute stay during peak times.
-
-- name: Panda’s Coffee House
+- address: 84 Balham High Road, SW12 9AG
   category: Café
-  address: 84 Balham High Road, SW12 9AG
+  description: A Japanese-inspired, tranquil café offering Caravan coffee, acai bowls
+    and bao buns in a minimalist, relaxed space.
+  name: Panda’s Coffee House
+  tags: []
   website: https://www.instagram.com/pandascoffeebalham/
-  description: A Japanese-inspired, tranquil café offering Caravan coffee, acai bowls and bao buns in a minimalist, relaxed space.
-
-- name: Natas Coffee Bar
-  category: Café & Brunch
-  address: 19 Balham High Road, SW12 9AL
-  website: https://www.natas.london/
-  description: Independent coffee bar known for organic Craft House coffee, Belgian waffles, juices and a wholesome community vibe
-
-- name: Parish Coffee
+- address: 19 Balham High Road, SW12 9AL
   category: Café
-  address: 23 Malwood Road, SW12 8EN
+  description: Independent coffee bar known for organic Craft House coffee, Belgian
+    waffles, juices and a wholesome community vibe
+  name: Natas Coffee Bar
+  tags:
+  - Brunch
+  website: https://www.natas.london/
+- address: 23 Malwood Road, SW12 8EN
+  category: Café
+  description: Community-focused café housed in Ascension Church, offering stain‑glass
+    views, toasties, homemade cakes, and a play area for kids
+  name: Parish Coffee
+  tags: []
   website: https://www.instagram.com/parishcoffeebalham/
-  description: Community-focused café housed in Ascension Church, offering stain‑glass views, toasties, homemade cakes, and a play area for kids
-
-- name: Freak Scene Sushi & Robata
-  category: Restaurant & Bar
-  address: 1 Ramsden Road, SW12 8QX
+- address: 1 Ramsden Road, SW12 8QX
+  category: Restaurant
+  description: Bold pan‑Asian fusion venue by ex‑Nobu chef Scott Hallsworth, offering
+    creative sushi, robata, and inventive cocktails in an immersive environment
+  name: Freak Scene Sushi & Robata
+  tags:
+  - Bar
   website: https://www.freakscenerestaurants.com/
-  description: Bold pan‑Asian fusion venue by ex‑Nobu chef Scott Hallsworth, offering creative sushi, robata, and inventive cocktails in an immersive environment
-
-- name: Blue Fig
-  category: Mediterranean Restaurant
-  address: 5–6 Balham Station Road, SW12 9SG
+- address: 5–6 Balham Station Road, SW12 9SG
+  category: Restaurant
+  description: Elegant Mediterranean fusion eatery offering breakfast, brunch, lunch
+    and dinner with a Middle Eastern twist—book ahead recommended
+  name: Blue Fig
+  tags:
+  - Mediterranean
   website: https://bluefigbalham.wixsite.com/mysite/
-  description: Elegant Mediterranean fusion eatery offering breakfast, brunch, lunch and dinner with a Middle Eastern twist—book ahead recommended
-
