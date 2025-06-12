@@ -5,6 +5,15 @@ permalink: /gateway/
 layout: single
 ---
 
+> Broad-bosomed, bold, becalmed, benign
+> Lies Balham, four-square on the Northern Line.
+> Matched by no marvel save in Eastern scene
+> A rose-red city, half as gold as green.
+> By country churchyard, ferny fen and mere
+> What Quills mute inglorious lies buried here?
+> Oh stands the church clock at ten to three?
+> And is there honey still for tea?
+
 In the world of British comedy, few sketches have given a location quite the
 same unlikely status as Peter Sellers did for Balham. His famous satirical
 monologue, “Balham: Gateway to the South”, first aired on the BBC Home Service
@@ -15,9 +24,6 @@ wartime propaganda films — breathlessly describing Balham as an exotic, almost
 mythical international destination. Sellers’ faux-American narrator voice lent
 it the feel of a grand public information film, while the script elevated
 mundane suburban landmarks into marvels worthy of worldwide interest.
-
-> “Gateway to the South. The throbbing heart of London's teeming, beating South.
-> Balham... bal-ham...”
 
 The absurdity of the piece lay in its complete mismatch of tone and subject.
 The sketch describes Balham's tube station as if it were a monument of
