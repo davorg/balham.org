@@ -5,18 +5,21 @@ layout: single
 description: "Discover great cafés, shops, and services in Balham — all in one place."
 ---
 
-<ul>
-  {% for biz in site.data.businesses %}
-    <li id="{{ biz.name | slugify }}">
-      <h2>{{ biz.name }}</h2>
-      <p><strong>Category:</strong> {{ biz.category }}</p>
-      <p><strong>Address:</strong> {{ biz.address }}</p>
-      {% if biz.website != nil and biz.website != "" %}
-        <p><a href="{{ biz.website }}" target="_blank">Visit Website</a></p>
+{% assign categories = site.data.businesses | map: "category" | uniq | sort %}
+{% for cat in categories %}
+  <h2>{{ cat }}</h2>
+  <ul>
+    {% for biz in site.data.businesses %}
+      {% if biz.category == cat %}
+        <li id="{{ biz.name | slugify }}">
+          <h3>{{ biz.name }}</h3>
+          <p><strong>Address:</strong> {{ biz.address }}</p>
+          {% if biz.website != nil and biz.website != "" %}
+            <p><a href="{{ biz.website }}" target="_blank">Visit Website</a></p>
+          {% endif %}
+          <p>{{ biz.description }}</p>
+        </li>
       {% endif %}
-      <p>{{ biz.description }}</p>
-    </li>
-    <hr>
-  {% endfor %}
-</ul>
-
+    {% endfor %}
+  </ul>
+{% endfor %}
