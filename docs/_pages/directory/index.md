@@ -5,13 +5,6 @@ layout: single
 description: "Discover great cafés, shops, and services in Balham — all in one place."
 ---
 
----
-title: "Business Directory"
-permalink: /directory/
-layout: single
-description: "Discover great cafés, shops, and services in Balham — all in one place."
----
-
 <p><strong>Show categories:</strong></p>
 <form id="category-filter">
   {% assign sorted_biz = site.data.businesses | sort: "name" %}
