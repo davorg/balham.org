@@ -5,7 +5,10 @@ layout: single
 description: "Discover great cafés, shops, and services in Balham — all in one place."
 ---
 
-{% assign categories = site.data.businesses | map: "category" | uniq | sort %}
+{% assign sorted_biz = site.data.businesses | sort: "name" %}
+{% assign categories = sorted_biz | map: "category" | uniq %}
+{% assign categories = categories | sort %}
+
 {% for cat in categories %}
   <h2>{{ cat }}</h2>
   <ul>
