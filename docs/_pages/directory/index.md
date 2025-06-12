@@ -6,15 +6,15 @@ description: "Discover great cafés, shops, and services in Balham — all in on
 ---
 
 <p><strong>Show categories:</strong></p>
-<form id="category-filter">
+<p id="category-filter">
   {% assign sorted_biz = site.data.businesses | sort: "name" %}
   {% assign categories = sorted_biz | map: "category" | uniq | sort %}
   {% for cat in categories %}
-    <label style="margin-right: 1em;">
+    <label style="white-space: nowrap;">
       <input type="checkbox" checked data-category="{{ cat | slugify }}"> {{ cat }}
-    </label>
+    </label>{% unless forloop.last %} | {% endunless %}
   {% endfor %}
-</form>
+</p>
 
 <hr>
 
