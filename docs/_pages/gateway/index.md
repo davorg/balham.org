@@ -5,13 +5,13 @@ permalink: /gateway/
 layout: single
 ---
 
-> Broad-bosomed, bold, becalmed, benign
-> Lies Balham, four-square on the Northern Line.
-> Matched by no marvel save in Eastern scene
-> A rose-red city, half as gold as green.
-> By country churchyard, ferny fen and mere
-> What Quills mute inglorious lies buried here?
-> Oh stands the church clock at ten to three?
+> Broad-bosomed, bold, becalmed, benign  
+> Lies Balham, four-square on the Northern Line.  
+> Matched by no marvel save in Eastern scene  
+> A rose-red city, half as gold as green.  
+> By country churchyard, ferny fen and mere  
+> What Quills mute inglorious lies buried here?  
+> Oh stands the church clock at ten to three?  
 > And is there honey still for tea?
 
 In the world of British comedy, few sketches have given a location quite the
