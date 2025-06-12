@@ -1,64 +1,38 @@
-- name: Balham Comedy Festival
-  date: 2025-07-12
-  location: The Bedford
+- date: 2025-07-12
   description: A week of top comedy talent from across the UK.
-  link: https://www.thebedford.com/events/comedy-festival/
-
-- name: Sunday Farmers' Market
-  date: Every Sunday
-  location: Henry Cavendish School, Hydethorpe Road
+  link: https://www.balhamcomedyfestival.com/
+  location: The Bedford, 77 Bedford Hill, SW12 9HD
+  name: Balham Comedy Festival
+- date: Every Sunday
   description: Fresh produce, baked goods, coffee, and more from local vendors.
   link: https://www.lfm.org.uk/markets/balham/
-
-- name: Open Mic Night
-  date: Various dates from Thur 10 April 2025
-  location: The Exhibit, 12 Balham Station Road
+  location: Henry Cavendish School, Hydethorpe Road
+  name: Sunday Farmers' Market
+- date: Various dates from Thur 12 June 2025
   description: Show off your musical or comedy skills at a friendly open mic.
   link: https://www.designmynight.com/london/bars/balham/exhibit/lost-souls-poetry-open-mic
-
-- name: Art in the Park
-  date: 2025-06-15
-  location: Tooting Common, Balham side
-  description: A family-friendly outdoor art fair with local artists, food, and live music.
-  link: 
-
-- name: Balham Literary Walk
-  date: 2025-08-03
-  location: Starts at Balham Library
-  description: A guided walking tour celebrating Balham's literary and cultural landmarks.
-  link: 
-
-- name: Speed Dating (Ages 23–35)
-  date: Thursday, 17 April 2025
   location: The Exhibit, 12 Balham Station Road
-  description: Go on 15 mini-dates in one night at this popular speed dating event hosted by Date in a Dash.
-  link: https://dateinadash.com/events/london/balham/speed-dating/17Apr2025-6574
-
-- name: Strictly Wandsworth
-  date: Saturday, 26 April 2025
-  location: Battersea Park
-  description: A free all-day dance extravaganza featuring Bollywood, ballet, Lindy-hop, breakdancing and more.
-  link: https://www.wandsworth.gov.uk/news/news-march-2025/london-borough-of-culture-gets-moving-with-all-day-dance-extravaganza/
-
-- name: A Special Event with Fr Jacques Philippe
-  date: Saturday, 26 April 2025
-  location: Holy Ghost Church, 27 Nightingale Square, SW12 8QJ
-  description: An afternoon reflection on “God's Mercy as a Foundation of Our Hope” with renowned spiritual writer Fr Jacques Philippe.
-  link: https://www.eventbrite.com/e/a-special-event-with-fr-jacques-philippe-at-holy-ghost-church-balham-tickets-1261535961019
-
-- name: BATCA Community Awards 2025
-  date: Sunday, 27 April 2025
-  location: St Boniface Church Hall, 185 Mitcham Road, SW17 9PG
-  description: An evening celebrating the unsung heroes of the Balham and Tooting community.
-  link: https://batcaorg.wordpress.com/2025/03/01/batca-community-awards-2025/
-
-- name: Live Music at The Bedford
-  date: Various dates in April 2025
-  location: The Bedford, 77 Bedford Hill, SW12 9HD
-  description: Enjoy a rotating line-up of live music acts at one of Balham's best-loved venues.
+  name: Open Mic Night
+- date: 2025-06-15
+  description: A family-friendly outdoor art fair with local artists, food, and live
+    music.
+  link: null
+  location: Tooting Common, Balham side
+  name: Art in the Park
+- date: 2025-08-03
+  description: A guided walking tour celebrating Balham's literary and cultural landmarks.
+  link: null
+  location: Starts at Balham Library
+  name: Balham Literary Walk
+- date: Various dates in 2025
+  description: Enjoy a rotating line-up of live music acts at one of Balham's best-loved
+    venues.
   link: https://thebedford.com/events/category/music/
-- name: Translation
-  date: 21/22 June 2025
   location: The Bedford, 77 Bedford Hill, SW12 9HD
-  description: An exciting and emotive piece of queer theatre blending contemporary, krump, hip hop, capoeira and acro-dance movement styles with Chinese pole.
+  name: Live Music at The Bedford
+- date: 21/22 June 2025
+  description: An exciting and emotive piece of queer theatre blending contemporary,
+    krump, hip hop, capoeira and acro-dance movement styles with Chinese pole.
   link: https://welcometowandsworth.com/events/do-translation/
+  location: The Bedford, 77 Bedford Hill, SW12 9HD
+  name: Translation
