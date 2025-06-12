@@ -16,8 +16,11 @@ layout: single
 
 In the world of British comedy, few sketches have given a location quite the
 same unlikely status as Peter Sellers did for Balham. His famous satirical
-monologue, “Balham: Gateway to the South”, first aired on the BBC Home Service
-in 1958 as part of a sketch show written by Frank Muir and Denis Norden.
+monologue, “Balham: Gateway to the South”, first aired on the BBC Third
+Programme in 1958 as part of a sketch show written by Frank Muir and Denis
+Norden and featuring Peter Sellers, Benny Hill and Michael Bentine. The
+best-known version was recorded by Sellers in 1958 for inclusion on his
+record, *The Best of Sellers*.
 
 The premise was a spoof travelogue — a parody of earnest documentaries and
 wartime propaganda films — breathlessly describing Balham as an exotic, almost
@@ -47,7 +50,7 @@ And for locals? There’s a certain pride in being part of the joke — in knowi
 that this unassuming corner of south west London once served as the comic
 “gateway” to the entire south of England.
 
-## 1958 original version
+## 1958 version
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bVCkvheedWA?si=ZFIMrFIbS85UZzNm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
