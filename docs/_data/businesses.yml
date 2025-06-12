@@ -22,7 +22,7 @@
   description: Offers traditional Italian cuisine, including handmade pasta and crisp
     pizzas, complemented by a selection of quality wines.
   name: Ciullósteria
-  tags: []
+  tags: [italian]
   website: https://ciullosteria.com/
 - address: 77 Bedford Hill, Balham, London SW12 9HD
   category: Pub
@@ -40,25 +40,25 @@
   category: Shop
   description: Offers fresh fish, smoked products, and homemade pies.
   name: Moxon's Fishmongers
-  tags: []
+  tags: [fish]
   website: https://www.moxonsfreshfish.com/
 - address: 7 Bedford Hill, Balham, London SW12 9ET
   category: Shop
   description: An award-winning jewellery brand celebrating over 30 years in business.
   name: Sam Ubhi Jewellery
-  tags: []
+  tags: [jewellery]
   website: https://www.samubhi.com/
 - address: 78 Balham High Road, London SW12 9AG
   category: Shop
   description: Specialises in children's clothing, footwear, and nursery furniture.
   name: Natural for Baby
-  tags: []
+  tags: [baby]
   website: https://naturalforbaby.london/
 - address: 18 Hildreth Street, London SW12 9RQ
   category: Shop
   description: Curated wine selections and regular tasting events.
   name: The Wine Tasting Shop
-  tags: []
+  tags: [wine]
   website: https://www.thewinetastingshop.co.uk/
 - address: Henry Cavendish Primary School, Hydethorpe Road, London SW12 0JA
   category: Market
@@ -67,11 +67,11 @@
   tags: []
   website: https://www.lfm.org.uk/markets/balham/
 - address: 109 Balham High Road, London SW12 9AP
-  category: Butcher
+  category: Shop
   description: A family-run butcher shop known for high-quality meats and friendly
     service.
   name: Chadwick's Butchers
-  tags: []
+  tags: [meat]
   website: https://www.chadwicksbutchers.com/
 - address: 246 and 260 Balham High Road, London SW17 7AN
   category: Wellness
@@ -86,43 +86,48 @@
   tags: []
   website: https://www.moreyoga.co.uk/studios/balham/
 - address: 279-291 Balham High Road, London SW12 9AW
-  category: Gym
+  category: Wellness
   description: Gym offering diverse fitness classes and extensive facilities.
   name: Fitness First
-  tags: []
+  tags: [gym]
   website: https://www.fitnessfirst.co.uk/find-a-gym/balham
 - address: 6 Hildreth Street, London SW12 9RQ
   category: Shop
   description: Specialises in Spanish cheeses and cured meats.
   name: Brindisa Cheese & Charcuterie
   tags:
-  - Specialty
+  - specialty
+  - cheese
   website: https://www.brindisa.com/
 - address: 28 Hildreth Street, London SW12 9RQ
   category: Shop
   description: Selection of craft beers and ales.
   name: Clapton Craft
   tags:
-  - Specialty
+  - specialty
+  - craft
   website: https://claptoncraft.co.uk/
 - address: 99 Balham High Road, London SW12 9AP
   category: Shop
   description: Quality cookware and kitchen essentials.
   name: Season Cookshop
   tags:
-  - Specialty
+  - specialty
+  - cookware
   website: https://seasoncookshop.co.uk/
 - address: 22 Bedford Hill, London SW12 9RG
-  category: Hardware Store
+  category: Store
   description: Local DIY supplies and hardware store.
   name: Balham Paint and Hardware Company
-  tags: []
+  tags:
+  - hardware
   website: https://www.balhampaintandhardware.co.uk/
 - address: 8 Hildreth Street, London SW12 9RQ
-  category: Florist
+  category: show
   description: Florist offering beautiful floral arrangements and bouquets.
   name: The Flower Sanctuary
-  tags: []
+  tags:
+  - flowers
   website: https://www.flowersanctuary.co.uk/
 - address: 212 Balham High Road, SW12 9BS
   category: Café
@@ -130,7 +135,7 @@
     friendly seating policy with a 60‑minute stay during peak times.
   name: The Apple Blue
   tags:
-  - Patisserie
+  - patisserie
   website: https://www.instagram.com/theapplebluebalham/
 - address: 84 Balham High Road, SW12 9AG
   category: Café
@@ -145,7 +150,7 @@
     waffles, juices and a wholesome community vibe
   name: Natas Coffee Bar
   tags:
-  - Brunch
+  - brunch
   website: https://www.natas.london/
 - address: 23 Malwood Road, SW12 8EN
   category: Café
@@ -160,7 +165,7 @@
     creative sushi, robata, and inventive cocktails in an immersive environment
   name: Freak Scene Sushi & Robata
   tags:
-  - Bar
+  - bar
   website: https://www.freakscenerestaurants.com/
 - address: 5–6 Balham Station Road, SW12 9SG
   category: Restaurant
@@ -168,5 +173,5 @@
     and dinner with a Middle Eastern twist—book ahead recommended
   name: Blue Fig
   tags:
-  - Mediterranean
+  - mediterranean
   website: https://bluefigbalham.wixsite.com/mysite/
