@@ -1,8 +1,3 @@
-- date: 2025-07-12
-  description: A week of top comedy talent from across the UK.
-  link: https://www.balhamcomedyfestival.com/
-  location: The Bedford, 77 Bedford Hill, SW12 9HD
-  name: Balham Comedy Festival
 - date: Every Sunday
   description: Fresh produce, baked goods, coffee, and more from local vendors.
   link: https://www.lfm.org.uk/markets/balham/
@@ -13,37 +8,15 @@
   link: https://www.designmynight.com/london/bars/balham/exhibit/lost-souls-poetry-open-mic
   location: The Exhibit, 12 Balham Station Road
   name: Open Mic Night
-- date: 2025-06-15
-  description: A family-friendly outdoor art fair with local artists, food, and live
-    music.
-  link: null
-  location: Tooting Common, Balham side
-  name: Art in the Park
-- date: 2025-08-03
-  description: A guided walking tour celebrating Balham's literary and cultural landmarks.
-  link: null
-  location: Starts at Balham Library
-  name: Balham Literary Walk
 - date: Various dates in 2025
   description: Enjoy a rotating line-up of live music acts at one of Balham's best-loved
     venues.
   link: https://thebedford.com/events/category/music/
   location: The Bedford, 77 Bedford Hill, SW12 9HD
   name: Live Music at The Bedford
-- date: 21/22 June 2025
-  description: An exciting and emotive piece of queer theatre blending contemporary,
-    krump, hip hop, capoeira and acro-dance movement styles with Chinese pole.
-  link: https://welcometowandsworth.com/events/do-translation/
-  location: The Bedford, 77 Bedford Hill, SW12 9HD
-  name: Translation
-- name: Stand-Up Comedy at The Bedford
-  date: 2025-06-21
-  location: The Bedford, 77 Bedford Hill, SW12 9HD
-  description: A Saturday night of top-tier stand-up comedy in Balham’s iconic venue, featuring up-and-coming acts and seasoned comedians.
-  link: https://thebedford.com/event/stand-up-comedy-21-june-2025/
-- name: Speed Dating (Ages 30–45)
-  date: 2025-06-27
-  location: The Exhibit, 12 Balham Station Road, SW12 9SG
-  description: A relaxed and fun way to meet up to 15 singles in one evening, hosted at The Exhibit’s stylish cocktail bar.
-  link: https://dateinadash.com/events/london/balham/speed-dating/27Jun2025
+- date: 2025-11-28
+  name: Pop-Up Ceilidh - St Andrew's Day Special
+  description: Join us at our favourite winter venue as we celebrate the patron saint of Scotland the only way we know how - dancing wildly, drinking whisky, and eating tasty tasty fare.
+  link: https://www.designmynight.com/london/whats-on/party/pop-up-ceilidh-st-andrews-special
+  location: St Thomas' Church, Balham
 
