@@ -1,0 +1,35 @@
+{% assign ads = site.data.adsense %}
+
+{% if jekyll.environment == "production"
+      and ads
+      and ads.enabled
+      and ads.client
+      and ads.sidebar
+      and ads.sidebar.units %}
+
+  <aside class="sidebar__right sticky adsense-sidebar"
+         aria-label="Advertisements">
+
+    <!-- Load AdSense once -->
+    <script async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ ads.client }}"
+            crossorigin="anonymous"></script>
+
+    {% for unit in ads.sidebar.units %}
+      <div class="adsense-sidebar__unit">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="{{ ads.client }}"
+             data-ad-slot="{{ unit.slot }}"
+             data-ad-format="{{ unit.format | default: 'auto' }}"
+             data-full-width-responsive="{{ unit.full_width | default: 'true' }}"></ins>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+    {% endfor %}
+
+  </aside>
+
+{% endif %}
+

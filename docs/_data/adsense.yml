@@ -1,0 +1,20 @@
+# _data/adsense.yml
+
+enabled: true          # flip to false to disable all ads
+
+client: "ca-pub-1486883079150066"   # your AdSense client ID
+
+sidebar:
+  units:
+    - slot: "7913734679"    # Balham Sidebar 1
+      format: "auto"
+      full_width: true
+
+    - slot: "4295065624"    # Balham Sidebar 2
+      format: "auto"
+      full_width: true
+
+    - slot: "1692759494"    # Balham Sidebar 3
+      format: "auto"
+      full_width: true
+
