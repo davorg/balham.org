@@ -12,9 +12,8 @@ redirect_from:
   - /2017/09/
   - /2017/09/french-cafe-closes/
   - /2017/09/queuing-for-milk/
+toc: true
 ---
-
-{% include adsense-sidebar.html %}
 
 ![Map of Balham](/images/map.webp){: .responsive-map }
 
