@@ -14,6 +14,8 @@ redirect_from:
   - /2017/09/queuing-for-milk/
 ---
 
+{% include adsense-sidebar.html %}
+
 ![Map of Balham](/images/map.webp){: .responsive-map }
 
 Welcome to **Balham.org** — your independent guide to one of south-west
