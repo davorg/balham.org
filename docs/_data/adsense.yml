@@ -1,6 +1,6 @@
 # _data/adsense.yml
 
-enabled: true          # flip to false to disable all ads
+enabled: false          # flip to false to disable all ads
 
 client: "ca-pub-1486883079150066"   # your AdSense client ID
 
