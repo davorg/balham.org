@@ -81,8 +81,8 @@
 
 .domain-for-sale {
   position: fixed;
-  top: 0.75rem;
-  right: 0.75rem;
+  top: 3.5rem;
+  right: 1.5rem;
   z-index: 10000;
 
   padding: 0.45rem 0.75rem;
@@ -93,4 +93,12 @@
   font-weight: bold;
   text-decoration: none;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+}
+
+.domain-for-sale a, .domain-for-sale a:hover, .domain-for-sale a:visited {
+  color: #fff;
+}
+
+.domain-for-sale a:hover {
+  text-decoration: underline;
 }
